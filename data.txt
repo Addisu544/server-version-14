@@ -1,0 +1,1 @@
+install express mysql mysql2 cors multer
